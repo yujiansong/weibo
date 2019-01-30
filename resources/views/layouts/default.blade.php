@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>@yield('title', 'Weibo App') - 微博应用</title>
+    <title>@yield('title', 'Weibo App') - 微应用</title>
     <link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
@@ -13,5 +13,6 @@
             @include('layouts._footer')
         </div>
     </div>
+    <script src="/js/app.js"></script>
 </body>
 </html>

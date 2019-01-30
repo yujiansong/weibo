@@ -2,9 +2,9 @@
 
 @section('content')
     <div class="jumbotron">
-        <h1>hello, friend</h1>
+        <h1>hello, friend😊</h1>
         <p class="lead">
-            你现在所看到的是 <a href="https://github.com/yujiansong">cuckoo微博</a> 项目的主页。
+            你现在所看到的是 <a href="https://github.com/yujiansong">cuckoo微应用</a> 的主页。
         </p>
         <p>
             一切，将从这里开始。

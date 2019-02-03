@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>@yield('title', 'Weibo App') - 微应用</title>
+    <title>@yield('title', 'Cuckoo App') - 微应用</title>
     <link rel="stylesheet" href="/css/app.css">
 </head>
 <body>

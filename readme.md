@@ -1,5 +1,5 @@
 ### 微博轻应用社交网站
-author: 于建松 (yujiansong6@163.com)<br>
+author: 于建松<br>
 [线上地址](https://yjs-weibo.herokuapp.com/) https://yjs-weibo.herokuapp.com/
 
 > 主要开发环境 <br>
